@@ -1,24 +1,24 @@
-# 📚 Sistema de Biblioteca em Java
+#Sistema de Biblioteca em Java
 
 Projeto desenvolvido com o objetivo de praticar os conceitos fundamentais de Java e Programação Orientada a Objetos (POO).
 
-## 🚀 Funcionalidades
+##Funcionalidades
 
-- 📖 Cadastro de livros
-- 👤 Cadastro de usuários
-- 📚 Empréstimo de livros
-- 🔄 Devolução de livros
-- 🔍 Consulta de livros por ISBN
-- 👥 Consulta de usuários por matrícula
+-  Cadastro de livros
+-  Cadastro de usuários
+-  Empréstimo de livros
+-  Devolução de livros
+-  Consulta de livros por ISBN
+-  Consulta de usuários por matrícula
 
-## 🛠️ Tecnologias utilizadas
+##Tecnologias utilizadas
 
 - Java
 - IntelliJ IDEA
 - Git
 - GitHub
 
-## 📂 Estrutura do projeto
+##Estrutura do projeto
 
 ```
 src
@@ -32,7 +32,7 @@ src
 └── Main.java
 ```
 
-## 📖 Conceitos praticados
+##Conceitos praticados
 
 Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
@@ -47,7 +47,7 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 - Organização em pacotes
 - Separação de responsabilidades entre classes
 
-## ▶️ Como executar
+##Como executar
 
 1. Clone o repositório:
 
@@ -59,7 +59,7 @@ git clone https://github.com/RodrigoLessio/sistema-biblioteca-java.git
 
 3. Execute a classe `Main.java`.
 
-## 📷 Exemplo do menu
+##Exemplo do menu
 
 ```
 ====================
@@ -74,10 +74,10 @@ git clone https://github.com/RodrigoLessio/sistema-biblioteca-java.git
 0 - Sair
 ```
 
-## 🎯 Objetivo
+##Objetivo
 
 Este projeto foi desenvolvido para consolidar os conhecimentos adquiridos em Java, colocando em prática conceitos de orientação a objetos, organização de código e manipulação de coleções.
 
 ---
 
-Desenvolvido por **Rodrigo Lessio** 🚀
+Desenvolvido por **Rodrigo Lessio**
